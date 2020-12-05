@@ -17,7 +17,7 @@ function App() {
         >
           Learn React 
           hello world
-          这是在主分支上
+          这是在new-branch上
         </a>
       </header>
     </div>
